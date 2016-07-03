@@ -1,0 +1,21 @@
+Americanas
+18
+1000
+846323 Toalha_De_Mesa Santista 30 10 14.99
+832457 TV_43_Polegadas LG 2 20 2099.76
+873264 Xbox_One Microsoft 3 10 2000.97
+534123 Balas_de_Gelatina Fini 30 5 2.50
+857679 Cerveja_Lata Amstel 20 7 3.99
+546764 Panela_Eletrica Mondial 4 30 79.99
+068096 Toalha_Banhao Teka 9 15 39.99
+453642 Roupao_Masculino Santista 1 18 69.90
+856078 Galaxy_S6 Samsung 3 30 3999.70
+526465 Mouse_M325 Logitech 6 12 119.50
+078658 Notebook_G60 Lenovo 2 21 2099.46
+347625 Copo_Americano Cisper 40 14 4.99
+878564 Fone_de_Ouvido Philips 10 3 29.39
+675824 Pen_Drive Multilaser 9 19 29.99
+545432 Wok Tramontina 4 24 230.97
+653274 Mochila Nike 5 22 199.32
+674542 Monitor AOC 7 21 349.21
+743587 Chinelo Rider 22 14 29.95
